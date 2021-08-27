@@ -4,7 +4,7 @@ Introducción al mundo DARQ.
 que significa DARQ, que es SMAC, conceptos generales.
 
 Presentación de DLT, tipos, introducción a BlockChain conceptos básicos ,contratos inteligentes, ejemplo de proyectos exitosos.
-tecnología y programación. casos de uso y ejemplos de proyectos, tecnologías relacionadas a blockchain.
+tecnología y programación. casos de uso y ejemplos de proyectos, tecnologías relacionadas a blockchain. Breve introducción al mundo de las criptomonedas, que es trading, exchange, wallets, análisis fundamental, análisis técnico (gráfico de velas), DEFI, etc.
 
 Presentación de AI e definiciones generales , clasificaciones, machine learning, deep learning, que es una neurona
 ejemplo sencillo, proyectos presentes y futuros.
